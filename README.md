@@ -1,4 +1,4 @@
-# python-challenge
+# Python-Challenge 
 This project is composed of two segments
 
 Part 1 
